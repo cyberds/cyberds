@@ -13,7 +13,37 @@ Doosu is a very disciplined fullstack developer. His entire work ethic is built 
 - middleman businesses
 - education-centered projects.
 
-### ⚡ Fun fact: Whenever I'm not coding, I'd be drumming or writing poetry. I love music too.
+ ### 🌱 Things I value:
+ - Diversity
+ - Teamwork
+ - Collaboration
+ - Dedication
+ - A sense of Humanity
+ - Support
+ 
+  
+### Reach Me:
+<p><i> Click to visit </i></p>
+<p>
+<a href="https://www.cyberds.pythonanywhere.com/" target="_blank" rel="noreferrer" title="click to visit my portfolio website"> 
+ <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334486/Icons%20and%20Flaticons/profile_udm0g1.gif" alt="portfolio icon" width="40" height="40"/>
+ </a> &nbsp; &nbsp;
+ <a href="mailto:dskbagain@gmail.com" target="_blank" rel="noreferrer" title="dskbagain@gmail.com"> 
+ <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334277/Icons%20and%20Flaticons/gmail_xqrjok.png" alt="gmail" width="40" height="40"/>
+ </a> &nbsp; &nbsp;
+ <a href="https://www.behance.net/doosubere" target="_blank" rel="noreferrer" title="behance username: doosubere"> 
+ <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334326/Icons%20and%20Flaticons/behance_frawex.png" alt="behance" width="40" height="40" title="behance username: doosubere"/>
+ </a> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/doosu-bere" target="_blank" rel="noreferrer" title="behance username: doosubere"> 
+ <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334276/Icons%20and%20Flaticons/linkedin_qpvzsj.png" alt="behance" width="40" height="40" title="LinkedIn username: doosu-bere"/>
+ </a> &nbsp; &nbsp;
+ <a href="https://wa.me/2349081505800" target="_blank" rel="noreferrer" title="+2349081505800"> 
+ <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679336315/Icons%20and%20Flaticons/whatsapp_bepzbx.png" alt="gmail" width="40" height="40"/></a>
+ 
+ </p>
+
+### ⚡ Fun fact: 
+Whenever I'm not coding, I'd be drumming or writing poetry. I love music too.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -51,33 +81,19 @@ Doosu is a very disciplined fullstack developer. His entire work ethic is built 
    <a href="https://adobe.com/" target="_blank" rel="noreferrer"> 
    <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334327/Icons%20and%20Flaticons/photoshop_mua9sv.png" alt="react" width="40" height="40"/> 
    </a>
+ 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberds&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
- ### 🌱 Things I value:
- - Diversity
- - Teamwork
- - Collaboration
- - Dedication
- - A sense of Humanity
- - Support
- 
- 
-### Reach Me:
-<p><i> Click to visit </i></p>
-<p>
-<a href="https://www.cyberds.pythonanywhere.com/" target="_blank" rel="noreferrer" title="click to visit my portfolio website"> 
- <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334486/Icons%20and%20Flaticons/profile_udm0g1.gif" alt="portfolio icon" width="40" height="40"/>
- </a> &nbsp; &nbsp;
- <a href="mailto:dskbagain@gmail.com" target="_blank" rel="noreferrer" title="dskbagain@gmail.com"> 
- <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334277/Icons%20and%20Flaticons/gmail_xqrjok.png" alt="gmail" width="40" height="40"/>
- </a> &nbsp; &nbsp;
- <a href="https://www.behance.net/doosubere" target="_blank" rel="noreferrer" title="behance username: doosubere"> 
- <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334326/Icons%20and%20Flaticons/behance_frawex.png" alt="behance" width="40" height="40" title="behance username: doosubere"/>
- </a> &nbsp; &nbsp;
- <a href="https://wa.me/2349081505800" target="_blank" rel="noreferrer" title="+2349081505800"> 
- <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679336315/Icons%20and%20Flaticons/whatsapp_bepzbx.png" alt="gmail" width="40" height="40"/></a>
- 
- </p>
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberds&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Doosu" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberds" alt="Doosu" /></p>
+ 
+ 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <!--
 **cyberds/cyberds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
