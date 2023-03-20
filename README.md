@@ -52,6 +52,15 @@ Doosu is a very disciplined fullstack developer. His entire work ethic is built 
    <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334327/Icons%20and%20Flaticons/photoshop_mua9sv.png" alt="react" width="40" height="40"/> 
    </a>
 
+ ###🌱 Things I value:
+ - Diversity
+ - Teamwork
+ - Collaboration
+ - Dedication
+ - A sense of Humanity
+ - Support
+ 
+ 
 ### Reach Me:
 <p><i> Click to visit </i></p>
 <p>
