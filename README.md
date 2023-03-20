@@ -7,13 +7,13 @@
 
 Doosu is a very disciplined fullstack developer. His entire work ethic is built around the Kaizen ideology. He's constantly looking for a more efficient way to achieving his goal. 
 
-👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on:
 - any people-oriented project
 - new innovations around regular things people currently do
 - middleman businesses
 - education-centered projects.
 
-⚡ Fun fact: Whenever I'm not coding, I'd be drumming or writing poetry. I love music too.
+### ⚡ Fun fact: Whenever I'm not coding, I'd be drumming or writing poetry. I love music too.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -52,7 +52,7 @@ Doosu is a very disciplined fullstack developer. His entire work ethic is built 
    <img src="https://res.cloudinary.com/naijpoll/image/upload/v1679334327/Icons%20and%20Flaticons/photoshop_mua9sv.png" alt="react" width="40" height="40"/> 
    </a>
 
- ###🌱 Things I value:
+ ### 🌱 Things I value:
  - Diversity
  - Teamwork
  - Collaboration
